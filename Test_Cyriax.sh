@@ -506,6 +506,3 @@ do
 done
 clear
 
-
-
-

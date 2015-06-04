@@ -3,3 +3,5 @@ language: bash
 script:
     - bash Test_Cyriax.sh
 
+sudo: false
+
